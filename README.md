@@ -1,6 +1,6 @@
 Air Quality Trend Analysis (ML)		
 
-Analyzed air quality by studying various atmospheric gasses and assessing city pollution levels. Employed machine learning for robust insights, categorizing pollution intensity (high, poor, low, moderate).
+Analyzed air quality by studying various atmospheric gasses and assessing city pollution levels. Employed machine learning for robust insights, categorizing pollution intensity (good, moderate, unhealthy).
 
 1. Analyzed and preprocessed air quality data using Python, Pandas, Seaborn, and Matplotlib.
 2. Conducted data cleaning, outlier handling, and feature engineering for enhanced dataset quality.
